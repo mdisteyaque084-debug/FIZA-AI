@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fiza AI</string>
+    <string name="accessibility_description">Fiza AI can inspect accessible labels and, only when you issue a command, scroll or enter text in supported screens. It does not bypass lock screens or send messages automatically.</string>
+</resources>
